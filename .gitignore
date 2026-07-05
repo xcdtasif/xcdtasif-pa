@@ -41,5 +41,6 @@ yarn-error.log*
 next-env.d.ts
 
 # agent context files
-.agent
+.agents
 AGENTS.md
+.omp
